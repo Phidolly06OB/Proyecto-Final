@@ -1,0 +1,13 @@
+Un tipo de inventario de que productos salen y que productos entran, estos tendran unos stocks los cuales se veran afectados por el ingreso o el egreso de materiales, la idea es tener las dos colecciones:
+
+1. tendra el personal de la empresa 
+2. Lo materiales de la empresa como camaras, cables, etc.
+
+
+luego tendremos un partado general que nos mostrara cuantos materailes han entrado y cuantos han salido
+
+
+
+Materiales usados en la empresa:{
+
+}
